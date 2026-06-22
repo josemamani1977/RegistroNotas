@@ -1,0 +1,616 @@
+﻿{
+    "estudiantes":  [
+                        {
+                            "id":  "NjM5MTY4ODE3Nzky",
+                            "nombre":  "JESUA AÑAGUAYA LOPEZ",
+                            "matricula":  "200113048",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail1@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "WENDY LORENA APAZA HUAYTA",
+                            "matricula":  "200099339",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail2@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "SILVIA WILMA ARUQUIPA MAMANI",
+                            "matricula":  "200094950",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail3@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "JEAN PAUL ARUQUIPA ZEBALLOS",
+                            "matricula":  "200114004",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail4@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "KEYTLY FERNANDA CALDERON POMA",
+                            "matricula":  "200112896",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail5@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "MAYA GENESIS CALLE NINA",
+                            "matricula":  "200112910",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail6@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "GERMAN LUIS CALLEJAS MENDOZA",
+                            "matricula":  "200103525",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail7@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "LEYDI CARITA FLORES",
+                            "matricula":  "200113011",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail8@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "ROCIO CARLO ASPI",
+                            "matricula":  "200112946",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail9@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "CRISTHIAN DYLAN CASTRO ROMERO",
+                            "matricula":  "200113025",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail10@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "ROCIO CHAVEZ LIMACHI",
+                            "matricula":  "200112935",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail11@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "CARMEN ALCIRA CHOQUE HUANCA",
+                            "matricula":  "200112891",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail12@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "JOSEPH UZUEL CHOQUE TARQUI",
+                            "matricula":  "200107439",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail13@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "ESTEFANIA EDITH CHOQUE USCAMAYTA",
+                            "matricula":  "200112940",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail14@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "SILVIA COLQUE HILARI",
+                            "matricula":  "200107597",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail15@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "IVAN RAUL CONDORENA ORTEGA",
+                            "matricula":  "200112897",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail16@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "SILVIA CONDORI RAMIREZ",
+                            "matricula":  "200100828",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail17@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "GROVER FERMIN COPA SINCHE",
+                            "matricula":  "200114003",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail18@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "JORGE ARIEL DAMIAN ILLANES",
+                            "matricula":  "200107436",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail19@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "GABY ELENA FERNANDEZ CHURA",
+                            "matricula":  "200104284",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail20@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "NERY FLORES VARGAS",
+                            "matricula":  "200113075",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail21@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "SILVIA GABRIEL HUANCA",
+                            "matricula":  "200113066",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail22@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "MARIA LIZABET GOMEZ HUANCA",
+                            "matricula":  "200112942",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail23@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "BRAYAN MANUEL HUALLPA HUASCO",
+                            "matricula":  "200114502",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail24@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "EVELYN HUANCA PAUCARA",
+                            "matricula":  "200113057",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail25@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "ADAN HUASCO MAMANI",
+                            "matricula":  "200112999",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail26@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "ROBERTO CARLOS LAURA MAMANI",
+                            "matricula":  "200099498",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail27@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "MARISOL LEUCA CARITA",
+                            "matricula":  "200112975",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail28@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "MIRKO GUSTAVO LUQUE POMA",
+                            "matricula":  "200112979",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail29@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "DAVID MAMANI ALANOCA",
+                            "matricula":  "200112944",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail30@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "ESTHER NOEMI MAMANI AMARU",
+                            "matricula":  "200113016",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail31@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "LIMBER MAMANI APAZA",
+                            "matricula":  "200112948",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail32@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "PRISCILA MAMANI CONDORI",
+                            "matricula":  "200065122",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail33@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "JHANET MAMANI LIMACHI",
+                            "matricula":  "200112901",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail34@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "JHANINE VALERIA MAMANI MAMANI",
+                            "matricula":  "200112952",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail35@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "MIGUEL MAMANI QUISPE",
+                            "matricula":  "200107451",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail36@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "ABIGAIL ROSMINDA MENA VALDA",
+                            "matricula":  "200112926",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail37@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "ARACELI KATHERINE MENDOZA HILARI",
+                            "matricula":  "200094097",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail38@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "JOSE ALVARO MOLLO TICONA",
+                            "matricula":  "200065900",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail39@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "MARIANA PATRICIA MONRROY CRUZ",
+                            "matricula":  "200114009",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail40@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "SARAI RAQUEL MORALES GALLARDO",
+                            "matricula":  "200112943",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail41@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "YADHIRA NATZUMI PACO FLORES",
+                            "matricula":  "200112976",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail42@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "LUZ CAMILA PAREDES CONDORI",
+                            "matricula":  "200112921",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail43@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "JOSEPH RENAN PAREDES NAVIA",
+                            "matricula":  "200113013",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail44@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "BRIANA LAYSHA PLATA COPARICONA",
+                            "matricula":  "200113995",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail45@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "WILSON PUMARI TARQUI",
+                            "matricula":  "200112971",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail46@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "YESICA QUENTA HUANCA",
+                            "matricula":  "200112994",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail47@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "SARAI GISSEL QUISPE ALCON",
+                            "matricula":  "200098854",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail48@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "LUZ ALEJANDRA QUISPE CHOQUE",
+                            "matricula":  "200112937",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail49@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "KELSYE MELANY QUISPE MARQUEZ",
+                            "matricula":  "200112945",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail50@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "YHOSMAR QUISPE VASQUEZ",
+                            "matricula":  "200112871",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail51@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "NATALY BELEN RIVERIN MEAVE",
+                            "matricula":  "200112913",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail52@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "MARIA LIZ RODRIGUEZ MAIDANA",
+                            "matricula":  "200112899",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail53@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "YOSELIN FABIOLA ROJAS CONDORI",
+                            "matricula":  "200089090",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail54@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "JHONATAN CALEB ROQUE MONTES",
+                            "matricula":  "200112984",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail55@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "SARAHI ROQUE OCHOA",
+                            "matricula":  "200112993",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail56@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "HENRY SANGALLI ARUQUIPA",
+                            "matricula":  "200112930",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail57@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "ULISES FRANCO SURCO LUNA",
+                            "matricula":  "200112888",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail58@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "MARIA ISABEL TABOADA RUBIN DE CELIS",
+                            "matricula":  "200112939",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail59@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "BRIANA CECIL TARIFA ZEGARRA",
+                            "matricula":  "200113022",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail60@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "DANITZA JHENIFER TITIRICO CHURQUI",
+                            "matricula":  "200114008",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail61@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "CIELO ISABEL TOLA LAURA",
+                            "matricula":  "200112954",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail62@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "RODRIGO OSCAR TOLA LAURA",
+                            "matricula":  "200099415",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail63@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "DAMARIS BELEN TORREZ VALENCIA",
+                            "matricula":  "200113068",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail64@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "ZULEMA VARGAS TICONA",
+                            "matricula":  "200112872",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail65@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "CHRISTIAN WEIMAR VILLARREAL DURAN",
+                            "matricula":  "200108426",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail66@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        },
+                        {
+                            "id":  "NjM5MTY4ODE3ODIz",
+                            "nombre":  "OLIVER MAKOTO VILLCA CHOQUE",
+                            "matricula":  "200113398",
+                            "fechaRegistro":  "2026-06-12",
+                            "curso":  "A",
+                            "email":  "sinemail67@.com",
+                            "carrera":  "FONETICA Y FONOLOGIA CASTELLANA"
+                        }
+                    ],
+    "evaluaciones":  [
+
+                     ],
+    "asistencia":  [
+
+                   ],
+    "tareas":  [
+
+               ]
+}
