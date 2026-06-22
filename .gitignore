@@ -1,2 +1,6 @@
-
+backup_*/
+*.csv
+importar_estudiantes.json
+regacad_export_*.json
 proyecto_android/
+proyecto_pc/
